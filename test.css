@@ -16,6 +16,11 @@ table, th, td {
 #table4{
 	background-color: purple;
 }
-b {
-	text-align: center;
+
+img {
+	img {
+		
+    width: 100%;
+    height: auto;
+}
 }
